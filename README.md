@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Sales Analysis
+# ☕🚩 Coffee Shop Sales Analysis
 ### Uncovering the Lower Manhattan Evening Revenue Gap
 
 > **Role:** Junior Data Analyst — Portfolio Project  
