@@ -1,7 +1,7 @@
 # ☕ Coffee Shop Sales Analysis
 ### Uncovering the Lower Manhattan Evening Revenue Gap
 
-**Role:** Junior Data Analyst — Portfolio Project  
+> **Role:** Junior Data Analyst — Portfolio Project  
 > **Dataset:** Coffee Shop Sales (149,116 transactions · Jan–Jun · 3 NYC stores)  
 > **Tools:** Python · Pandas · Matplotlib · ReportLab  
 
